@@ -1,0 +1,6 @@
+zwords
+qwords
+hwords
+twords
+mwords
+swords
